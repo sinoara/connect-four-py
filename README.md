@@ -1,1 +1,1 @@
-# connect4-py
+# connect-four-py
